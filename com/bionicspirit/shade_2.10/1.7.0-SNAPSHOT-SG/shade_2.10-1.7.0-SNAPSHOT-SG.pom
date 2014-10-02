@@ -5,7 +5,7 @@
     <artifactId>shade_2.10</artifactId>
     <packaging>jar</packaging>
     <description>shade</description>
-    <version>1.7.0-SNAPSHOT</version>
+    <version>1.7.0-SNAPSHOT-SG</version>
     <name>shade</name>
     <organization>
         <name>com.bionicspirit</name>

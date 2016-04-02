@@ -43,37 +43,37 @@
         <dependency>
             <groupId>net.liftweb</groupId>
             <artifactId>lift-util_2.11</artifactId>
-            <version>2.6.2-MongoAsync-4</version>
+            <version>2.6.2-MongoAsync-5</version>
         </dependency>
         <dependency>
             <groupId>net.liftweb</groupId>
             <artifactId>lift-common_2.11</artifactId>
-            <version>2.6.2-MongoAsync-4</version>
+            <version>2.6.2-MongoAsync-5</version>
         </dependency>
         <dependency>
             <groupId>net.liftweb</groupId>
             <artifactId>lift-record_2.11</artifactId>
-            <version>2.6.2-MongoAsync-4</version>
+            <version>2.6.2-MongoAsync-5</version>
         </dependency>
         <dependency>
             <groupId>net.liftweb</groupId>
             <artifactId>lift-mongodb-record_2.11</artifactId>
-            <version>2.6.2-MongoAsync-4</version>
+            <version>2.6.2-MongoAsync-5</version>
         </dependency>
         <dependency>
             <groupId>net.liftweb</groupId>
             <artifactId>lift-mongodb_2.11</artifactId>
-            <version>2.6.2-MongoAsync-4</version>
+            <version>2.6.2-MongoAsync-5</version>
         </dependency>
         <dependency>
             <groupId>net.liftweb</groupId>
             <artifactId>lift-webkit_2.11</artifactId>
-            <version>2.6.2-MongoAsync-4</version>
+            <version>2.6.2-MongoAsync-5</version>
         </dependency>
         <dependency>
             <groupId>net.liftweb</groupId>
             <artifactId>lift-json_2.11</artifactId>
-            <version>2.6.2-MongoAsync-4</version>
+            <version>2.6.2-MongoAsync-5</version>
         </dependency>
         <dependency>
             <groupId>joda-time</groupId>
@@ -94,6 +94,12 @@
             <groupId>org.mongodb</groupId>
             <artifactId>mongodb-driver-async</artifactId>
             <version>3.2.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-nop</artifactId>
+            <version>1.7.14</version>
+            <scope>test</scope>
         </dependency>
     </dependencies>
 </project>
